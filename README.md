@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+A modern news application built with React that fetches and displays the latest news from various categories.
 
 ## Available Scripts
 
