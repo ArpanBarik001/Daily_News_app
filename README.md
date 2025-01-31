@@ -1,6 +1,8 @@
 # Overview
 A modern news application built with React that fetches and displays the latest news from various categories.
 
+https://github.com/ArpanBarik001/Daily_News_app/blob/559fbf6dfd5507f532958aaa06d239a81c6c0765/Screenshot%202025-01-31%20194827.png
+
 ## Available Scripts
 
 In the project directory, you can run:
