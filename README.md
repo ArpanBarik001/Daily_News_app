@@ -3,17 +3,17 @@ A modern news application built with React that fetches and displays the latest 
 
 ![Image Alt](https://github.com/ArpanBarik001/Daily_News_app/blob/559fbf6dfd5507f532958aaa06d239a81c6c0765/Screenshot%202025-01-31%20194827.png)
 
-## Available Scripts
+# Features
+Fetches live news from an API  NewsAPI.org.
+Categorized news (Business, Technology, Sports, Entertainment, etc.).
+Fully responsive design.
 
-In the project directory, you can run:
+# Tech Stack
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Frontend:** React, React Router, Axios
+- **Styling:** CSS / Tailwind / Bootstrap
+- **API:** NewsAPI.org (or any other news source)
+- **State Management:** React Context API / Redux (optional)
 
 ### `npm test`
 
